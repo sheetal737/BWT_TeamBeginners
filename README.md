@@ -342,3 +342,5 @@ MIT License
 # Author
 
 Developed as a prototype demonstrating **real-time payment fraud detection techniques**.
+markdown
+![System Architecture](./architectures.png)
